@@ -1,0 +1,16 @@
+PODS:
+  - LKMapSDK_RoutePlan (0.1.0)
+
+DEPENDENCIES:
+  - LKMapSDK_RoutePlan (from `../`)
+
+EXTERNAL SOURCES:
+  LKMapSDK_RoutePlan:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LKMapSDK_RoutePlan: 73f528b52629f16db835523f60543cf5d21af7b7
+
+PODFILE CHECKSUM: 39b05237306eb61b19fe8ab98bbb36cdc13bc0e1
+
+COCOAPODS: 1.9.0.beta.3

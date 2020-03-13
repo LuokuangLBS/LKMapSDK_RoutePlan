@@ -1,0 +1,6 @@
+framework module LKMapSDK_RoutePlan {
+  umbrella header "LKMapSDK_RoutePlan.h"
+
+  export *
+  module * { export * }
+}
