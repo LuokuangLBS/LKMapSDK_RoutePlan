@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LKMapSDK_RoutePlan_Example' do
+  pod 'LKMapSDK_RoutePlan', :path => '../'
+
+  target 'LKMapSDK_RoutePlan_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
