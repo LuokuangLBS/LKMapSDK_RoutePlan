@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LKMapSDK_RoutePlan'
-  s.version          = '1.0.0'
+  s.version          = '2.0.0'
   s.summary          = '箩筐地图iOS SDK（CocoaPods箩筐地图官方库），路线规划功能包'
 
   s.description      = <<-DESC

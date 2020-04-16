@@ -5,25 +5,27 @@
 [![License](https://img.shields.io/cocoapods/l/LKMapSDK_RoutePlan.svg?style=flat)](https://cocoapods.org/pods/LKMapSDK_RoutePlan)
 [![Platform](https://img.shields.io/cocoapods/p/LKMapSDK_RoutePlan.svg?style=flat)](https://cocoapods.org/pods/LKMapSDK_RoutePlan)
 
-## Example
+## 示例
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+克隆工程后，运行 `pod install` 
 
-## Requirements
+## 系统
 
-## Installation
+iOS 9.0及以上系统
 
-LKMapSDK_RoutePlan is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+## 安装
+
+LKMapSDK_Base 支持 [CocoaPods](https://cocoapods.org) 安装。
+将以下命令添加到你的 Podfile 文件中：
 
 ```ruby
 pod 'LKMapSDK_RoutePlan'
 ```
 
-## Author
+## 作者
 
-LuokuangLBS, haofp@luokung.com
+### 箩筐地图开放平台, LuokuangLBS, haofp@luokung.com
 
-## License
+## 许可
 
 LKMapSDK_RoutePlan is available under the MIT license. See the LICENSE file for more info.
